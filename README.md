@@ -1,9 +1,11 @@
 <div align="center">
 
+<img src="assets/banner.svg" alt="Razi — AI, Python and Robotics" width="100%" />
+
 # Razi
 ### Aspiring AI Developer · Python · Intelligent Robotics
 
-I’m learning by building, experimenting, and documenting my progress in technology.
+Learning by building, experimenting, and documenting my progress.
 
 [![GitHub](https://img.shields.io/badge/GitHub-moeinim351--afk-181717?style=flat-square&logo=github)](https://github.com/moeinim351-afk)
 [![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
@@ -25,13 +27,13 @@ I’m learning by building, experimenting, and documenting my progress in techno
 | --- | --- |
 | Python | Programming fundamentals and practical projects |
 | AI & Machine Learning | Core concepts and beginner experiments |
-| Robotics | Understanding how software can interact with the physical world |
-| Web Development | Building and improving useful learning tools |
+| Robotics | Connecting code with the physical world |
+| Web Development | Building and improving useful tools |
 
 ## Featured Work
 
-- **AI Learning Journey** — notes, experiments, and projects from my AI learning path.
-- **First GitHub Project** — an early step in learning how to organize and share code.
+- **[AI Learning Journey](https://github.com/moeinim351-afk/ai-learning-journey)** — notes, experiments, and projects from my learning path.
+- **[My First GitHub Project](https://github.com/moeinim351-afk/my-first-github-project)** — an early step in learning to organize and share code.
 
 ## GitHub Overview
 
